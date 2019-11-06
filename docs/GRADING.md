@@ -22,7 +22,7 @@
 - We will run unit tests on your classes, and your simulator will be run and play through Dijkstra's on several different graphs.
 - We will create a 100 node graph where all nodes have a 25% chance of being connected. If your code takes more than one minute to create such a graph, or if your code takes more than one minute to setup the routing tables on such a graph, you will lose some points (see below). We promise to run it on a reasonably modern laptop (not a tablet, for instance).
 
-#### Manual Code Inspection Rubric (25% "off the top" points)
+#### Manual Code Inspection Rubric (30% "off the top" points)
 These are all "off the top" points (i.e. items that will lose you points rather than earn you points):
 
 Inspection Point | Points | High (all points) | Med (1/2 points) | Low (no points)
