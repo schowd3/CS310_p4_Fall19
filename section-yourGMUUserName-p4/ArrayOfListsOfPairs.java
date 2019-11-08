@@ -7,7 +7,7 @@
 //This class will form the baseline for creating a hash table for a
 //map that uses separate chaining (each entry in a map is a key-value
 //pair). This class will also form a baseline for creating an adjacency
-//matrix (where each entry is a key-value pair where keys are the
+//list (where each entry is a key-value pair where keys are the
 //"adjacent" node and values are the connection between them). This way
 //we have a universal way for to access your internal structures when
 //grading these two classes.
